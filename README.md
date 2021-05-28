@@ -1,4 +1,4 @@
 # PersonalWebsiteWithCSSImplemented
 Update of first website but with CSS implementation 
 
-https://tshetrim.github.io/PersonalWebsiteWithCSSImplemented/
+Link to website: https://tshetrim.github.io/PersonalWebsiteWithCSSImplemented/
