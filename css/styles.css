@@ -103,6 +103,11 @@ hr {
 	float: right;
 }
 
+.incubator-pic {
+	height: 500px;
+	width: 500px;
+}
+
 .skill-row {
 	/*display: inline-block;*/
 	width: 50%;
